@@ -1,0 +1,4 @@
+Name of the Customer: aad
+fine: $20
+Date and Time of reurned:2021-09-09 07:54:22.305942
+Name of the returning book: The Catcher in the Rye

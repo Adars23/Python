@@ -1,0 +1,6 @@
+Name of the Customer: Aadarsha
+Price of the book/books borrowed: $26.979999999999997
+Date and Time of borrow: 2021-09-09 07:47:54.857322
+Name of the book/books borrowed: 
+Nineteen Eighty-Four
+The Catcher in the Rye

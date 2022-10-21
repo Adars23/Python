@@ -1,0 +1,4 @@
+Name of the Customer: Aadarsha
+fine: $0
+Date and Time of reurned:2021-09-09 07:51:43.996532
+Name of the returning book: To Kill a Mockingbird

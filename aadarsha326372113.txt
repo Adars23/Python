@@ -1,0 +1,4 @@
+Name of the Customer: aadarsha
+Price of the book/books borrowed: $9.99
+Date and Time of borrow:2021-08-31 07:32:06.372113
+Name of the book borrowed:/nNineteen Eighty-Four

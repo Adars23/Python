@@ -1,0 +1,5 @@
+1,Nineteen Eighty-Four,George Orwell,4,$9.99
+2,To Kill a Mockingbird,Harper Lee,6,$17.99
+3,The Catcher in the Rye,J.D.Salinger,0,$16.99
+4,Beloved,Toni Morrison,4,$16.00
+5,Invinsible Man,Ralph Ellison,7,$14.00
